@@ -1,1 +1,1 @@
-# RandomPasswordGenerator-Hanzi
+# Random Password Generator - Hanzi
